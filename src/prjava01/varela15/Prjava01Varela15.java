@@ -15,7 +15,7 @@ public class Prjava01Varela15 {
             bw.newLine(); bw.write(" </title>");
             bw.newLine(); bw.write(" </head>");
             bw.newLine(); bw.write(" <body>");
-            bw.newLine(); bw.write(" Nova p&agrave;gina web");
+            bw.newLine(); bw.write(" DAW2 UF4 Pràctica 2");
             bw.newLine(); bw.write(" </body>");
             bw.newLine(); bw.write("</html>");
             bw.newLine(); bw.close(); 
